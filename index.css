@@ -1,0 +1,42 @@
+.bigred {
+    font-size: 20px;
+    color: red;
+}
+span.bigred{
+    color: aquamarine;
+}
+.italic{
+    font-style: italic;
+}
+font700{
+    font-weight: 700;
+}
+.colorred{
+   color: red; 
+}
+.textright{
+    text-align: justify;
+    color: blueviolet;
+}
+.shadow{
+    text-shadow: 1px 1px 10px #180808;
+} 
+.text-transform{
+    text-transform: capitalize;
+
+}
+.ident{
+    text-indent: 50px;
+}
+.lspace{
+    letter-spacing: 5px;
+}
+.wspace{
+    word-spacing: 5px;
+    text-align: justify;
+    white-space: normal;
+    color: aqua;
+}
+.lineheight{
+    line-height: 30px;
+}
